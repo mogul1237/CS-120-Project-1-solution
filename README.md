@@ -1,2 +1,11 @@
 # CS-120-Project-1-solution
-CS 120 Project 1 solution
+
+Download Here: [CS 120 Project 1 solution](https://jarviscodinghub.com/assignment/cs-120-project-1-solution/)
+
+For Custom/Original Work email jarviscodinghub@gmail.com/whatsapp +1(541)423-7793
+
+For this project, you will demonstrate File I/O, user input, and output manipulation.
+Design Consider the following questions: – What input will you prompt from the user? – What potentially bad input could the user enter? – What will you read and write to ﬁles? – How will you display the output to the console? Some examples: – Ask the user for a year (within a reasonable range of years). Read from a ﬁle that contains the hit songs from that year and display the artist, song, number of weeks on the charts, etc. Write the user’s year choice to a ﬁle so that you can keep track of the most requested years. – Ask the user to choose a sports team. Read from a ﬁle and display the team players with their stats. Ask the user for their favorite player and write their response to a ﬁle. – Ask the user to input 10 numbers. Display stats on the numbers (min, max, median, mean) and write the data and stats to a ﬁle. Give the user an option to search past numbers and read them in from a ﬁle, printing them to the console. – Complete a Mad Libs – style word game. Read from a ﬁle the sentence and the parts of speech of the words needed (noun, adjective, etc.), ask the user to input the words and display the resulting silly sentences to the console and to a ﬁle.
+Implement You must receive input from the user.  You must check for bad user input at least once.  You must read from a ﬁle and write to a ﬁle (they can be the same ﬁle, if appropriate). Make sure to submit a ﬁle to be read along with your .cpp ﬁle.  You must use at least four of the output manipulations you learned in class.
+Test Make sure you test your program thoroughly, catching and dealing with any possible input from the user.
+Grading The project is out of 50 points. 5 pts Compiles and runs 5 pts Style. Readable, naming style is consistent, comments where appropriate 5 pts Receives input from the user 10 pts Handles bad input 10 pts File I/O works correctly 7 pts Console I/O works correctly 8 pts Uses 4 output manipulations
